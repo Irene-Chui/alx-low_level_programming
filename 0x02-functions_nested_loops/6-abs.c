@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  *_abs - Check Main
- * @r: An integre input
+ * @r: An integer input
  * Description: This function returns absolute value of a number
- * Return: Absolut value of number r
+ * Return: Absolute value of number r
  */
 int _abs(int r)
 {
